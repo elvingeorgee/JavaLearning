@@ -1,2 +1,2 @@
-# JavaLearning
-learning how to write Java
+# ArrayList
+learning how to use ArrayLists
